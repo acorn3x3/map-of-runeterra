@@ -1,0 +1,18 @@
+.Zodiac {
+  width: 200px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  position: absolute;
+  background-color: rgba(189, 181, 72, 0.685);
+}
+
+.zodiac img {
+  width: 100 px;
+}
+
+.zodiac .name {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+}

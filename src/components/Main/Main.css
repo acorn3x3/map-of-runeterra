@@ -1,0 +1,8 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  background-size: flex;
+  height: 1000px;
+  align-content: flex-start;
+  position: relative;
+}
