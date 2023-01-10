@@ -1,5 +1,5 @@
 import React from 'react';
 import './Footer.css';
 export default function Footer() {
-  return <footer>Andrew's Zodiac Table</footer>;
+  return <footer>By Andrew Cornejo</footer>;
 }

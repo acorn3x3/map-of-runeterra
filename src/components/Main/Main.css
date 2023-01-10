@@ -1,7 +1,7 @@
 main {
   display: flex;
   flex-wrap: wrap;
-  background-size: flex;
+  background-size: 100%;
   height: 1000px;
   align-content: flex-start;
   position: relative;

@@ -4,7 +4,10 @@
   border-radius: 5px;
   padding: 10px;
   position: absolute;
-  background-color: rgba(189, 181, 72, 0.685);
+  background-color: rgba(194, 160, 87);
+  border-color: black;
+  border-radius: 20px;
+  border: 20px;
 }
 
 .zodiac img {
