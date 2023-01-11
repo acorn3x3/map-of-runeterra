@@ -6,8 +6,7 @@ import Zodiac from '../Zodiac/Zodiac.js';
 
 import background from '../../bg.jpg';
 
-// eslint-disable-next-line no-unused-vars
-export default function Main(props) {
+export default function Main() {
   return (
     <main style={{ backgroundImage: `url(${background})` }}>
       {zodiac.map((zodiac) => (
